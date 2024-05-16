@@ -39,8 +39,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shouyileee&theme=onedark" alt="shouyileee" /></p>
 
-[![ShouyiLeee/Outfit-Assistant---Vietnam-Datathon-2023 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=Outfit-Assistant---Vietnam-Datathon-2023&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
-[![ShouyiLeee/UIT-DSC2023 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=UIT-DSC2023&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
-[![ShouyiLeee/CS231-Skin-Lesion-Classification - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=CS231-Skin-Lesion-Classification&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
-[![ShouyiLeee/CS106.O21.KHTN](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=CS106.O21.KHTN&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
+[![ShouyiLeee/Outfit-Assistant---Vietnam-Datathon-2023 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=Outfit-Assistant---Vietnam-Datathon-2023&theme=calm_pink)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ShouyiLeee/Outfit-Assistant---Vietnam-Datathon-2023))
+[![ShouyiLeee/UIT-DSC2023 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=UIT-DSC2023&theme=calm_pink)]([https://github.com/ShouyiLeee/UIT-DSC2023))
+[![ShouyiLeee/CS231-Skin-Lesion-Classification - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=CS231-Skin-Lesion-Classification&theme=calm_pink)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ShouyiLeee/CS231-Skin-Lesion-Classification))
+[![ShouyiLeee/CS106.O21.KHTN](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=CS106.O21.KHTN&theme=calm_pink)]([https://github.com/ShouyiLeee/CS106.O21.KHTN)]
 
