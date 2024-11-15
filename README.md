@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shouyileee&show_icons=true&locale=en&theme=onedark" alt="shouyileee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shouyileee&theme=onedark" alt="shouyileee" /></p>
+
 
 [![ShouyiLeee/Outfit-Assistant---Vietnam-Datathon-2023 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=Outfit-Assistant---Vietnam-Datathon-2023&theme=calm_pink)](https://github.com/ShouyiLeee/Outfit-Assistant---Vietnam-Datathon-2023)
 [![ShouyiLeee/UIT-DSC2023 - GitHub](https://github-readme-stats.vercel.app/api/pin/?username=ShouyiLeee&repo=UIT-DSC2023&theme=calm_pink)](https://github.com/ShouyiLeee/UIT-DSC2023)
