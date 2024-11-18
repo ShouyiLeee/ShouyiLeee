@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm DT - an IT guy who loves basketball so much. </h1>
+<h1 align='center'>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&center=true&width=435&lines=Hey+there%2C+I'm+Truong;Welcome+to+my+profile" alt="Typing SVG" /></a>
+  </h1>
 
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning and Java Spring**
